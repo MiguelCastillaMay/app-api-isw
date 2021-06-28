@@ -1,0 +1,7 @@
+{
+  "name": "api-isw",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
